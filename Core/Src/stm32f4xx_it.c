@@ -57,8 +57,8 @@
 /* USER CODE END 0 */
 
 /* External variables --------------------------------------------------------*/
-extern SD_HandleTypeDef hsd;
 extern PCD_HandleTypeDef hpcd_USB_OTG_FS;
+extern SD_HandleTypeDef hsd;
 /* USER CODE BEGIN EV */
 
 /* USER CODE END EV */
